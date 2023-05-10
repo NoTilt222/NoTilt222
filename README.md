@@ -44,5 +44,5 @@ I'm a software engineer based in Wanica, Suriname.
 Some useless statistics
 </h2>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoTilt222&show_icons=true&theme=dark)](https://github.com/NoTilt222)
+![NoTilt222's Stats](https://github-readme-stats.vercel.app/api?username=NoTilt222&theme=monokai&show_icons=true&hide_border=false&count_private=true)
 ![NoTilt222's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NoTilt222&theme=monokai&show_icons=true&hide_border=false&layout=compact)
