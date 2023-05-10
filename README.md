@@ -47,6 +47,6 @@ I'm a software engineer based in Wanica, Suriname.
 <h2>
 Some useless statistics
 </h2>
-![NoTilt222's Streak](https://github-readme-streak-stats.herokuapp.com/?user=NoTilt222&theme=monokai&hide_border=false)
+
 ![NoTilt222's Stats](https://github-readme-stats.vercel.app/api?username=NoTilt222&theme=monokai&show_icons=true&hide_border=false&count_private=true)
 ![NoTilt222's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NoTilt222&theme=monokai&show_icons=true&hide_border=false&layout=compact)
